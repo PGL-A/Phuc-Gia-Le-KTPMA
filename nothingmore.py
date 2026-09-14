@@ -1,1 +1,2 @@
-print("hello, mình là Phùng Hải Đăng đến từ lớp PMTA2026")
+print("hello world from Phung Hai Dang")
+print("Welcome to SE005!")
